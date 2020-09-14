@@ -58,14 +58,14 @@ pre-processors SASS or LESS.
 
 ## Education
 
-+ Belarusian State University of Informatics and Radio Electronics – 2009-2012  
++ **Belarusian State University of Informatics and Radio Electronics** – 2009-2012  
 *Bachelor’s Degree in Electronics Engineering*
-+ Minsk State Radio Engineering College – 2005-2009  
++ **Minsk State Radio Engineering College** – 2005-2009  
 *Bachelor’s Degree, Microelectronics*
 
 ## Professional training and certification
 
-+ BELHARD Academy – 2019  
++ **BELHARD Academy** – 2019  
 *Web application development using React*
 
 ## Languages
