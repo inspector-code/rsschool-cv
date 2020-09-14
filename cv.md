@@ -1,7 +1,7 @@
 ## Personal information
 
-**First Name**: Artem
-**Last Name**: Tsybulko
+**First Name**: Artem  
+**Last Name**: Tsybulko  
 **Phone number**: +375 29 761 16 03
 
 ## Summary
@@ -35,20 +35,20 @@ pre-processors SASS or LESS.
 
 ## Code examples
 
-+ [IMAGE WALL](https://github.com/inspector-code/my-image-wall), [gh-pages] (https://inspector-code.github.io/my-image-wall/)
-+ [CAROUSEL] (https://github.com/inspector-code/My-Slider), [gh-pages] (https://inspector-code.github.io/My-Slider/)
-+ [EBAY TEMPLATE] (https://github.com/inspector-code/ebay-landing), [gh-pages] (https://inspector-code.github.io/ebay-landing/)
++ [IMAGE WALL](https://github.com/inspector-code/my-image-wall), [gh-pages](https://inspector-code.github.io/my-image-wall/)
++ [CAROUSEL](https://github.com/inspector-code/My-Slider), [gh-pages](https://inspector-code.github.io/My-Slider/)
++ [EBAY TEMPLATE](https://github.com/inspector-code/ebay-landing), [gh-pages](https://inspector-code.github.io/ebay-landing/)
 
 ## Work history
 
-**System Administrator** (09/2016 - Present)
+**System Administrator** (09/2016 - Present)  
 *State Forensic Examination Committee*
 + Participated in the development of the official website of State Forensic Examination Committee of the Republic of Belarus: http://sudexpert.gov.by (design development, site structure, MySQL database design, development of an adaptive version of the site).
 + Designed and developed various web forms using HTML, CSS, Bootstrap and JavaScript.
 + Creating new features, functionality and capabilities of the organization site.
 + Created modular, responsive templates for content management system.
 
-**Content Manager** (02/2012 – 09/2016)
+**Content Manager** (02/2012 – 09/2016)  
 *Road Police of the Minsk city Executive Committee*
 + Developed and made layout for new sections of the existing website.
 + Filled the official organization’s website with text, graphic and other information.
@@ -56,12 +56,15 @@ pre-processors SASS or LESS.
 
 ## Education
 
-+ Belarusian State University of Informatics and Radio Electronics – 2009-2012 (Bachelor’s Degree in Electronics Engineering)
-+ Minsk State Radio Engineering College – 2005-2009 (Bachelor’s Degree, Microelectronics)
++ Belarusian State University of Informatics and Radio Electronics – 2009-2012  
+*Bachelor’s Degree in Electronics Engineering*
++ Minsk State Radio Engineering College – 2005-2009  
+*Bachelor’s Degree, Microelectronics*
 
 ## Professional training and certification
 
-+ BELHARD Academy – 2019 (Web application development using React)
++ BELHARD Academy – 2019  
+*Web application development using React*
 
 ## Languages
 
