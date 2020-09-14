@@ -7,9 +7,11 @@
 ## Summary
 
 + Good knowledge in developing web pages using HTML, CSS, JavaScript, React JS, Redux.
++ Extensive knowledge in developing single-page applications (SPA).
 + Good experience on customizing CSS frameworks like Bootstrap and Foundation using CSS 
 pre-processors SASS or LESS.
 + Implemented easy to use Bootstrap plugins for building carousel, accordion, modal windows etc.
++ Experienced in React JS and working with React Flux architecture.
 + Hands on experience in developing user interfaces for Desktop, Mobile, and Tablet.
 + Capable of quickly learning and delivering solutions as an individual and as part of a team.
 
